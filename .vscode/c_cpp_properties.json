@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "C:\\Users\\Vitaclick\\Documents\\Arduino\\libraries\\FastLED"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                    "C:\\Users\\Vitaclick\\Documents\\Arduino\\libraries\\FastLED"
+                ]
+            },
+            "intelliSenseMode": "msvc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 3
+}
